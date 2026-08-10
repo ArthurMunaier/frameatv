@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Planejador de Evento Escolar
 
 Projeto Flutter feito para a atividade escolar.
@@ -35,3 +36,6 @@ Depois:
 flutter pub get
 flutter run -d chrome
 ```
+=======
+# atividade
+>>>>>>> 643932f1d133247385279b6747b092dc6b4cc4b3
