@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flutter/Dart
 .dart_tool/
 .flutter-plugins
@@ -25,3 +26,19 @@ DerivedData/
 
 # Generated files
 *.log
+=======
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.idea/
+.vscode/*
+!.vscode/launch.json
+!.vscode/settings.json
+*.iml
+.DS_Store
+Thumbs.db
+>>>>>>> cc930db38b3832c79d6b5ebc7957616c78d5dfb0

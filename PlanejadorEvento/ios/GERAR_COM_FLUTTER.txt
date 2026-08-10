@@ -1,0 +1,3 @@
+Essa pasta de plataforma será preenchida corretamente pelo comando:
+
+flutter create .
