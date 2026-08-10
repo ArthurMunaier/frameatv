@@ -1,0 +1,27 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub/
+build/
+
+# Android
+.gradle/
+local.properties
+*.iml
+
+# iOS
+Pods/
+.build/
+DerivedData/
+*.xcuserstate
+
+# macOS
+**/Flutter/ephemeral/
+
+# IDE
+.vscode/
+.idea/
+
+# Generated files
+*.log

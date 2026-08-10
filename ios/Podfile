@@ -1,0 +1,6 @@
+platform :ios, '12.0'
+
+ENV['COCOAPODS_DISABLE_STATS'] = 'true'
+
+target 'Runner' do
+end
